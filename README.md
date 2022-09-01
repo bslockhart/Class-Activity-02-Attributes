@@ -14,7 +14,7 @@ Work with a partner to resolve the following issues:
 
 ## Assets
 The following image demonstrates the web application's appearance and functionality:
-![The portfolio page features headings in dark-blue text, rounded corners on the image placeholder, and various background colors.](./assets/image-1.png)
+![The portfolio page features headings in dark-blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-1.png)
 ---
 
 ## 💡 Hints
