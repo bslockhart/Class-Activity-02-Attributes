@@ -17,6 +17,14 @@ The following image demonstrates the web application's appearance and functional
 ![The portfolio page features headings in dark-blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-1.png)
 ---
 
+## Mockup
+* The following image demonstrates the web application's appearance and functionality:
+* Unsolved Application Appearance.
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-1.png)
+
+* Solved Application appearance.
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-2.png)
+
 ## 💡 Hints
 Why is it important to give each global attribute a unique name?
 
@@ -25,5 +33,7 @@ If you have completed this activity, work through the following challenge with y
 * What other attributes can be used with HTML elements?
 Use [Google](https://www.google.com) or another search engine to research this.
 
+## Submission
+[Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
+
 ---
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
