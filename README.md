@@ -23,7 +23,7 @@ The following image demonstrates the web application's appearance and functional
 ![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/images/image-1.png)
 
 * Solved Application appearance.
-![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-2.png)
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/images/image-2.png)
 
 ## 💡 Hints
 Why is it important to give each global attribute a unique name?
