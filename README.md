@@ -36,6 +36,6 @@ Use [Google](https://www.google.com) or another search engine to research this.
 * Attributes Used: [Attribute List](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
 ## Submission
-[Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
+[Biography Page With Attributes](https://bslockhart.github.io/Class-Activity-02-Attributes/)
 
 ---
