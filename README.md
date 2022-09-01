@@ -26,7 +26,8 @@ The following image demonstrates the web application's appearance and functional
 ![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/images/image-2.png)
 
 ## 💡 Hints
-Why is it important to give each global attribute a unique name?
+* Why is it important to give each global attribute a unique name?
+- The global attributes can be used with all elements, although it may not have any effect on some elements. represent new in HTML5. It is used to generate keyboard shortcuts for the current element. It is used to provide the class name for the current element.
 
 ## 🏆 Bonus
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
