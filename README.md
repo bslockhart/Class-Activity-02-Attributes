@@ -20,7 +20,7 @@ The following image demonstrates the web application's appearance and functional
 ## Mockup
 * The following image demonstrates the web application's appearance and functionality:
 * Unsolved Application Appearance.
-![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-1.png)
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/images/image-1.png)
 
 * Solved Application appearance.
 ![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-2.png)
