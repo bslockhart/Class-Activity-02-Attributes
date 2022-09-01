@@ -33,6 +33,7 @@ The following image demonstrates the web application's appearance and functional
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 * What other attributes can be used with HTML elements?
 Use [Google](https://www.google.com) or another search engine to research this.
+* Attribute list: [Attribute List](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
 ## Submission
 [Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
