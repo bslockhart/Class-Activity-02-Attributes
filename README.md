@@ -12,11 +12,6 @@ Work with a partner to resolve the following issues:
 * When a user opens the page, each section and list item does not have a background color applied.
 * When a user opens the page, the header text is not dark blue.
 
-## Assets
-The following image demonstrates the web application's appearance and functionality:
-![The portfolio page features headings in dark-blue text, rounded corners on the image placeholder, and various background colors.](./assets/images/image-1.png)
----
-
 ## Mockup
 * The following image demonstrates the web application's appearance and functionality:
 * Unsolved Application Appearance.
